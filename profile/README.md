@@ -3,7 +3,7 @@
 
 개발자들이 복잡한 서버 설정 없이 실시간으로 에러 로그를 관리하고 모바일로 즉각적인 알림을 받을 수 있도록 돕는 솔루션입니다
 
-모바일 앱 다운르도는 [여기에서](https://github.com/LogFlare-CAU/android/releases) 가능합니다.
+모바일 앱 다운로드는 [여기에서](https://github.com/LogFlare-CAU/android/releases) 가능합니다.
 
 ---
 
